@@ -1,0 +1,44 @@
+body{
+	background-color: gray;
+	margin: 0;
+	font-family: "Montserrat";
+}
+.bodycolor1{
+	background-color: cyan;
+}
+.square{
+    height: 150px;
+    width: 30%;
+    float: left;
+    margin: 1.66%;
+	border: 
+}
+.buttonchange1{
+	background-color: blue;
+}
+#container{
+	padding: auto;
+    margin: 60px auto 0 auto;
+    width: 600px;
+}
+#nav1{
+	height: 100px;
+	background-color: pink;
+	text-align: center;
+	margin: 0;
+	font-weight: 800;
+}
+#message1{
+	font-size: 30px;
+	width: 100%;
+	background-color: white;
+	text-align: center;
+	height: 50px;
+}
+button{
+	border: 1px solid white;
+}
+span{
+	color: black;
+	background-color: white;
+}
